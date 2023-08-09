@@ -1,0 +1,235 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 2208154.3936431743,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "🌸𝑲𝒂𝒊𝒚𝒐 𝒔𝒂𝒅𝒃𝒐𝒚🎭",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100051049144814",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100094175696430",
+        "100051141638702"
+    ],
+    "NDH": [
+        "100051049144814"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-disme",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000,
+        "rewardUsages": 100,
+        "rewardExp": 1000
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 120
+    },
+    "adminPaseOnly": false,
+    "ndhOnly": false,
+    "vieclam": {
+        "cooldownTime": 1200000
+    },
+    "checknude": {
+        "maxColumn": 10
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "sim": {
+        "APIKEY": "chaoemnha"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "fbvideo": {
+        "API_KEY": ""
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "xedua": {
+        "key": "cuongngu"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "anhvip": {
+        "cooldownTime": 1200000
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "fbdl": {
+        "API_KEY": "mzk_7DHDGE2AHTNTVRBVUEZ"
+    },
+    "fbvd": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "lixi2": {
+        "cooldownTime": 1200000
+    },
+    "mail10p": {
+        "APIKEY": "chinhdz"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "snautica": {
+        "APIKEY": ""
+    },
+    "song": {
+        "API_KEY": "mzk_O69SOEDT68Z0D9D3XF6"
+    },
+    "tikinfo": {
+        "key": "ClkIv52I"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    },
+    "log": {
+        "enable": true
+    },
+    "leave": {
+        "status": true,
+        "number": 10
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "cavev3": {
+        "cooldownTime": 60
+    },
+    "Lamiec": {
+        "cooldownTime": 1200000
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "spadmPaseOnly": false
+}

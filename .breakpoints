@@ -1,0 +1,20 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "69a5eff9-543e-4d82-86e5-a6cdd2090ee4",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/zombie.js": [
+      {
+        "id": "288c4950-3955-4f4c-996d-80e1c11e1df1",
+        "line": 37,
+        "version": 1,
+        "index": 1394
+      }
+    ]
+  }
+}
