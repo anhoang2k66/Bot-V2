@@ -1,6 +1,13 @@
 {
-"2006": {
-        "reason": "Đặng Hoàng Ân",
-        "dateAdded": "05/10/2006 10:36;45"
-    } 
+  "HasProblem": true,
+  "ForceUpdate": true,
+  "Problem": "Update",
+  "Version": "3.0.0",
+  "Lasted_Config_Version": "3.0.0",
+  "Stable_Version": {
+    "Valid_Version": [
+      "3.0.0"
+    ],
+    "RealTime_AutoUpdate": false
+  }
 }
